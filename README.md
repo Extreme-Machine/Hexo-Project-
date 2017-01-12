@@ -1,2 +1,2 @@
-# Hexo-Project-
+# Hexo-Project
 Self Hosted Blog
